@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Ktennis/static/css/main.1487ed11.css",
-    "main.js": "/Ktennis/static/js/main.abe78e2a.js",
-    "static/js/453.258b012d.chunk.js": "/Ktennis/static/js/453.258b012d.chunk.js",
-    "static/media/aryan.jpg": "/Ktennis/static/media/aryan.c6f829e2b407402dbcc5.jpg",
-    "static/media/aryan2.jpg": "/Ktennis/static/media/aryan2.b00131f883c446cdd210.jpg",
-    "static/media/background.jpg": "/Ktennis/static/media/background.c3fd74a1f936893bd9a8.jpg",
-    "static/media/ktennis.jpg": "/Ktennis/static/media/ktennis.feb99b6afeecbfe16848.jpg",
-    "static/media/gallery1.jpg": "/Ktennis/static/media/gallery1.b544a7a95f66bfeef1eb.jpg",
-    "static/media/gallery2.jpg": "/Ktennis/static/media/gallery2.b55c0fd5c579354e9b21.jpg",
-    "index.html": "/Ktennis/index.html",
-    "main.1487ed11.css.map": "/Ktennis/static/css/main.1487ed11.css.map",
-    "main.abe78e2a.js.map": "/Ktennis/static/js/main.abe78e2a.js.map",
-    "453.258b012d.chunk.js.map": "/Ktennis/static/js/453.258b012d.chunk.js.map"
+    "main.css": "./static/css/main.1487ed11.css",
+    "main.js": "./static/js/main.ce4265e3.js",
+    "static/js/453.258b012d.chunk.js": "./static/js/453.258b012d.chunk.js",
+    "static/media/aryan.jpg": "./static/media/aryan.c6f829e2b407402dbcc5.jpg",
+    "static/media/aryan2.jpg": "./static/media/aryan2.b00131f883c446cdd210.jpg",
+    "static/media/background.jpg": "./static/media/background.c3fd74a1f936893bd9a8.jpg",
+    "static/media/ktennis.jpg": "./static/media/ktennis.feb99b6afeecbfe16848.jpg",
+    "static/media/gallery1.jpg": "./static/media/gallery1.b544a7a95f66bfeef1eb.jpg",
+    "static/media/gallery2.jpg": "./static/media/gallery2.b55c0fd5c579354e9b21.jpg",
+    "index.html": "./index.html",
+    "main.1487ed11.css.map": "./static/css/main.1487ed11.css.map",
+    "main.ce4265e3.js.map": "./static/js/main.ce4265e3.js.map",
+    "453.258b012d.chunk.js.map": "./static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1487ed11.css",
-    "static/js/main.abe78e2a.js"
+    "static/js/main.ce4265e3.js"
   ]
 }
